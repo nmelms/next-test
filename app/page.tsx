@@ -14,7 +14,7 @@ export default function Home() {
         />
         <ol>
           <li>
-            Get started by fdsafdsafa <code>app/page.tsx</code>.
+            Get started by fdsafdsafdsafdsafdsafs <code>app/page.tsx</code>.
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>
