@@ -14,7 +14,7 @@ export default function Home() {
         />
         <ol>
           <li>
-            Get started by THis is another branc that shouldnt deployt{" "}
+            no deploy
             <code>app/page.tsx</code>.
           </li>
           <li>Save and see your changes instantly.</li>
