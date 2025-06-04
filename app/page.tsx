@@ -13,9 +13,7 @@ export default function Home() {
           priority
         />
         <ol>
-          <li>
-            Get started by fdsafdsafdsafdsafdsafs <code>app/page.tsx</code>.
-          </li>
+          <li>This is the preprod version</li>
           <li>Save and see your changes instantly.</li>
         </ol>
 
